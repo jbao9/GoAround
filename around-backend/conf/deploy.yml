@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://YOUR_GOOGLE_VM_INSTANCE_INTERNAL_IP:9200"
+  username: "YOUR_ES_ACOUNT"
+  password: "YOUR_ES_PASSWORD"
+
+gcs:
+  bucket: "YOUR_GCS_BUCKET_NAME"
+
+token:
+  secret: "secret"
